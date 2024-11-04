@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ihjas
-- 👀 I’m interested in Software Engineering and IT Consulting & Training.
-- 🌱 I’m currently Working as ICT Assistant
-- 💞️ I’m looking to collaborate on C#, Python nd React Native Software Development
+- 👀 I’m interested in Software Engineering and IT Supporting & Training.
+- 🌱 I’m currently Working as ICT Assistant (Sri Lanka ICT Service)
+- 💞️ I’m looking to collaborate on C#, ASP, Python nd React Native Software Engineering
 - 📫 How to reach me +94772307414
 
 <!---
