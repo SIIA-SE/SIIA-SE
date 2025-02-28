@@ -5,8 +5,8 @@
 - 📫 How to reach me si.ihjas.phone@gmail.com
 
 # Tech Stack
-<img src="{https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue}" />
-<img src ="{https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=purple}" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" />
+<img src="{https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=purple}" />
 
 <!---
 SIIA-SE/SIIA-SE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
